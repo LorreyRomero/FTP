@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+[Register Account User Profile](Register-Account.html)
+[Log In](Log-In.html)
+[Search Resources](Search-Resources.html)
+[Log Out](Log-Out.html)
+
 You can use the [editor on GitHub](https://github.com/LorreyRomero/FirstTimeParent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
